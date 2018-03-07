@@ -1,3 +1,13 @@
 results/jan.dat
 results/feb.dat
 results/mar.dat
+
+## this is the directory, don't need slashes
+ssnum
+*.ss
+
+*.dll
+!myfile.dll
+
+*.data
+!final.data
